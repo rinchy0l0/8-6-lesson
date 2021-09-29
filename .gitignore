@@ -1,0 +1,13 @@
+# Idea
+.idea
+*.iml
+
+# Gradle
+.gradle
+build
+
+# Allure
+.allure
+video
+out
+allure-results
